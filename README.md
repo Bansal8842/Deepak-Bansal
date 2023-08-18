@@ -1,3 +1,4 @@
+![Blue Modern Technology LinkedIn Banner](https://github.com/Bansal8842/Deepak-Bansal/assets/141987785/0632f905-8d63-4ca8-b62e-6a93bd5fe53c)
 
 <h1 align="center">Hi 👋, I'm Deepak Bansal</h1>
 <h3 align="center">A passionate software developer from india</h3>
